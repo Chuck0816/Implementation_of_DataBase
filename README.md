@@ -1,1 +1,1 @@
-# Implementation_of_DataBase
+This project serves as an introduction to implementing a simple database. It includes fundamental functions such as adding rows, adding columns, deleting rows, and deleting columns. Additionally, detailed notes outlining the implementation steps are provided.
